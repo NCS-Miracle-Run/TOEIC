@@ -1,0 +1,110 @@
+# VOCA
+
+## 기록
+
+| 단어 | 뜻 | 예문 |
+|------|-----|------|
+| mediocre | 썩 좋지 않은 | The reviews described the meal as mediocre at best. |
+| pleasantly | 기분 좋게 | We were pleasantly surprised by the hotel's service. |
+| thrive | 잘 자라다 | Small businesses can thrive in a competitive market. |
+| stand out | 눈에 띄다 | Her resume stood out among hundreds of applicants. |
+| meter | 계기판, 미터 | The fuel meter showed the tank was nearly empty. |
+| hold ~ up | ~을 떠받치다 / ~을 지연시키다 | The heavy traffic held up the delivery by two hours. |
+| crumple | 구겨지다 | He crumpled the paper and tossed it in the bin. |
+| alter | 바꾸다 | The tailor will alter the suit to fit you perfectly. |
+| second-hand shop | 중고품 할인 매장 | She found a rare book at a second-hand shop downtown. |
+| brick | 벽돌 | The warehouse was built with red brick walls. |
+| pile | 더미 | There was a pile of documents on his desk. |
+| significant | 중요한, 중대한; 상당한 | The company made a significant profit last quarter. |
+| for one's own end | 자기 자신의 목적을 위해, 사적인 이익을 위해 | He used the company's resources for his own ends. |
+| presumably | 아마, 짐작건대 | She is presumably the one in charge of the project. |
+| hygienic | 위생적인, 위생의 | The kitchen must be kept hygienic at all times. |
+| work on | ~에 공들이다, ~을 작업하다 | The team is working on a new product design. |
+| acclaimed | 칭찬[호평]을 받는 | The acclaimed chef opened a new restaurant in Seoul. |
+| scent | 향기, 냄새; 냄새를 맡다 | The scent of fresh coffee filled the office. |
+| bold | 용감한, 대담한; 굵은 글씨의 | The manager made a bold decision to expand overseas. |
+| board | 널빤지, 판; 이사회; 탑승하다 | Passengers were asked to board the plane immediately. |
+| promotion | 승진, 홍보, 촉진 | She received a promotion after leading a successful project. |
+| pending | 미정인, 미결인; ~을 기다리는 동안 | The contract is still pending approval from the board. |
+| errand | 심부름, 용건 | He ran several errands before heading to the office. |
+| accompany | 동행하다, 동반하다 | Please accompany the client to the conference room. |
+| substantial | 상당한, 실질적인 | The new policy led to a substantial increase in sales. |
+| roll out | (신제품을) 출시하다, 개시하다 | The company plans to roll out the new app next month. |
+| domestically | 국내에서; 가정적으로 | The product is currently sold domestically only. |
+| readily | 쉽게, 기꺼이, 즉시 | The information is readily available on our website. |
+| inquiry | 문의, 질문, 조사 | Please direct all inquiries to the customer service team. |
+| stunning | 깜짝 놀랄 만한, 멋진 | The view from the rooftop was absolutely stunning. |
+| household name | 누구나 아는 이름, 유명한 이름 | The brand became a household name within just a few years. |
+| on-site | 현장의, 구내의 | There is an on-site gym available for all employees. |
+| preliminary | 예비의, 사전의 | A preliminary meeting will be held before the official launch. |
+| cite | 인용하다; 언급하다; 소환하다 | The report cited several studies to support its findings. |
+| attract | 끌어당기다, 유치하다 | The event attracted over 500 attendees. |
+| cordially | 진심으로, 성심껏 | You are cordially invited to our annual awards ceremony. |
+| strictly | 엄격하게 | Cell phone use is strictly prohibited during the exam. |
+| tensely | 긴장하여; 팽팽하게 | The two teams tensely awaited the final announcement. |
+| cause | 대의; 원인, 이유 | The charity supports several humanitarian causes. |
+| delight + object | object를 기쁘게 하다 | The performance delighted the audience. |
+| delight in | 기뻐하다 | She delights in helping new employees settle in. |
+| wipe | 닦다 | Please wipe the counter before placing items on it. |
+| porch | 현관, 포치 | They sat on the porch and watched the sunset. |
+| secure | 확보하다, 안전하게 하다; 안전한, 튼튼한 | The team managed to secure a major contract. |
+| quote | 인용하다; 견적을 내다; 인용문, 견적; 견적서 | The contractor will quote a price by end of day. |
+| repave | (도로 등을) 재포장하다 | The city plans to repave the main road next spring. |
+| ergonomic | 인체 공학적인 | The office was equipped with ergonomic chairs and desks. |
+| joint | 관절; 공동의, 합동의 | The two firms released a joint statement on the merger. |
+| consumption | 소비, 소모 | Energy consumption increased significantly during winter. |
+| be out of town | 출장을 가다 | Mr. Kim is out of town until Friday. |
+| transit | 환승, 통과; 대중교통 | The goods were damaged in transit. |
+| in suite | (호텔 방 등에) 딸린, 실내의 | The suite features an in-suite bathroom and kitchenette. |
+| pave | (도로 등을) 포장하다 | Workers paved the parking lot over the weekend. |
+| property | 재산, 소유물; 부동산 | The company owns several properties across the country. |
+| patio | (집 뒤에 딸린) 테라스, 안뜰 | Guests can enjoy their meals on the patio. |
+| shift | 교대 근무; 변화; 옮기다 | She works the night shift at the hospital. |
+| catering | 출장 연회(업), 음식 공급 | The catering company provided food for 300 guests. |
+| service | 서비스, 용역; 근무 | The hotel is well known for its exceptional service. |
+| be on the way | 오고 있는 중이다, 진행 중이다 | The replacement parts are on the way. |
+| turnout | 참가자 수, 투표율; 생산량 | The event had a higher turnout than expected. |
+| hospitality | 환대, 접대; (호텔/식당 등의) 서비스 | The staff showed great hospitality to all visitors. |
+| laboratory | 실험실, 연구소 | The new drug was developed in our research laboratory. |
+| blanket | 담요 | Extra blankets are available at the front desk. |
+| depart | 출발하다 | The flight departs at 6:00 A.M. from Terminal 2. |
+| itinerary | 여행 일정표 | Please review the attached itinerary for the business trip. |
+| quirky | 특이한, 기발한 | The café has a quirky interior that attracts many visitors. |
+| reception | 환영회, 접수처 | The wedding reception will be held at the Grand Ballroom. |
+| be devoted to | ~에 헌신하다, 전념하다 | She is devoted to improving customer satisfaction. |
+| rave | 열광적인 반응(호평); 극찬하다 | The new restaurant received rave reviews from critics. |
+| coat | 외투; 코팅하다, 칠하다 | The surface was coated with a waterproof layer. |
+| vinegar | 식초 | A small amount of vinegar can be used as a cleaning agent. |
+| prop | 지주, 버팀목; 받치다 | He used a chair to prop the door open. |
+| installment | 할부, 분할 납부; (연재물의) 1회분 | You can pay for the product in monthly installments. |
+| tuition | 수업료, 등록금 | The company offers tuition reimbursement for job-related courses. |
+| apprentice | 견습생, 수습생 | He started as an apprentice and worked his way up. |
+| suggest | 제안하다, 시사하다 | The consultant suggested a new approach to the problem. |
+| be eligible for | ~에 대한 자격이 있다, ~을 받을 자격이 있다 | Employees with over 3 years of service are eligible for a bonus. |
+| cloth | 천, 옷감 | Use a soft cloth to clean the surface of the screen. |
+| surplus | 흑자, 과잉, 나머지 | The company reported a budget surplus for the second quarter. |
+| assembly | 조립; 집회, 의회 | Assembly instructions are included in the package. |
+| alike | 서로 비슷한, 똑같이 | The offer is open to new and existing customers alike. |
+| interfere | 방해하다, 간섭하다 | Please do not interfere with the ongoing inspection. |
+| comply | (규칙 등에) 따르다, 준수하다 | All staff must comply with the updated safety regulations. |
+| associate | 연관시키다, 연상하다; 동료 | She associates the brand with high quality and reliability. |
+| give a demonstration | 시연하다, 설명하다 | The sales rep gave a demonstration of the new software. |
+| make adjustments to | ~을 조정하다, 수정하다 | We need to make adjustments to the project timeline. |
+| surge | 급증하다, 급등하다; 급증 | There was a surge in demand following the product launch. |
+| venue | 장소, 개최지 | The conference venue can accommodate up to 1,000 people. |
+| in person | 직접, 몸소 | Applicants are required to submit documents in person. |
+| process | 처리하다, 가공하다; 과정, 공정 | Your order will be processed within 2 business days. |
+| invoice | 송장, 청구서 | Please send the invoice to our accounting department. |
+| complimentary | 무료의, 칭찬하는 | Guests receive a complimentary breakfast each morning. |
+| prize drawing | 경품 추첨 | A prize drawing will be held at the end of the event. |
+| affordable | (가격이) 알맞은 | The hotel offers affordable rates for long-term stays. |
+| tidy | 깔끔한, 정돈된; 정리하다 | Please keep your workspace tidy at all times. |
+| in light of | ~을 고려하여 | In light of recent feedback, we revised the proposal. |
+| scenic | 경치가 좋은 | The resort is located along a scenic coastal road. |
+| sturdy | 튼튼한 | The shelves are made of sturdy metal and can hold heavy items. |
+| on a trial basis | 시험적으로 | The new schedule will be implemented on a trial basis. |
+| across | 가로질러, 건너서; (전역에) 걸쳐 | The company has offices across 15 countries. |
+| throughout | ~동안 내내; ~의 도처에, 전역에 | The store will remain open throughout the holiday season. |
+| onto | ~위로; ~에(로) | She uploaded the files onto the shared drive. |
+| along | ~을 따라; 함께 | New shops have opened along the main street. |
+| capable | ~을 할 수 있는, 유능한 | He is a highly capable engineer with 10 years of experience. |
