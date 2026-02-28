@@ -108,3 +108,85 @@
 | onto | ~위로; ~에(로) | She uploaded the files onto the shared drive. |
 | along | ~을 따라; 함께 | New shops have opened along the main street. |
 | capable | ~을 할 수 있는, 유능한 | He is a highly capable engineer with 10 years of experience. |
+| occupant | 거주자, 입주자 | All occupants must vacate the building during the inspection. |
+| wage | 임금, 급여 | The company raised the minimum wage for all hourly workers. |
+| brochure | 안내 책자, 브로셔 | Please pick up a brochure at the front desk for more details. |
+| up to | ~까지; ~에 달려 있다 | It is up to the manager to approve the final budget. |
+| housing | 주택, 주거 | The company offers housing allowances for relocated employees. |
+| severe | 심각한, 가혹한 | Severe weather conditions caused delays at the airport. |
+| float | 띄우다, 떠다니다; (아이디어를) 제시하다 | She floated the idea of extending the project deadline. |
+| supplier | 공급업체 | We need to find a new supplier for raw materials. |
+| meet a standard | 기준을 충족하다 | All products must meet safety standards before shipment. |
+| inclement weather | 악천후 | The outdoor event was canceled due to inclement weather. |
+| stain | 얼룩; 얼룩지게 하다 | The coffee left a stain on the document. |
+| fellow | 동료; 같은 | He discussed the issue with his fellow employees. |
+| landlord | 집주인, 건물주 | The landlord agreed to repair the broken heating system. |
+| coordinate | 조율하다, 조정하다 | She was asked to coordinate the schedules of all departments. |
+| fountain | 분수 | The new fountain in the lobby became a popular attraction. |
+| job opening | 일자리, 채용 공고 | There are several job openings in the marketing department. |
+| carry out | 수행하다, 실행하다 | The team carried out the inspection according to the plan. |
+| ceramic | 도자기의; 도자기 | The museum has a large collection of ceramic artifacts. |
+| on leave | 휴가 중인 | Mr. Park is currently on leave and will return next week. |
+| deduct | 공제하다, 빼다 | Taxes will be deducted from your monthly salary automatically. |
+| follow suit | 선례를 따르다 | After the CEO resigned, several board members followed suit. |
+
+---
+
+## 자동사 vs 타동사 (수동태 판단 기준)
+
+> **핵심 원칙**: 타동사만 수동태(be + p.p.)로 쓸 수 있다.
+> 자동사는 목적어를 받지 않으므로 수동태 불가.
+
+### 자동사 (수동태 ❌)
+
+| 동사 | 뜻 | 예문 |
+|------|----|------|
+| arise | 발생하다 | Problems **arose** during the process. |
+| occur | 발생하다 | The accident **occurred** late at night. |
+| happen | 일어나다 | The meeting **happened** without notice. |
+| appear | 나타나다, ~처럼 보이다 | A solution **appeared** unexpectedly. |
+| disappear | 사라지다 | The files **disappeared** from the server. |
+| remain | 여전히 ~이다, 남다 | The store **remains** open on holidays. |
+| rise | 오르다 | Sales **rose** sharply last quarter. |
+| fall | 떨어지다 | Temperatures **fell** below zero. |
+| lie | 놓여 있다 | The documents **lie** on the desk. |
+| exist | 존재하다 | A similar policy **exists** in other companies. |
+| consist of | ~로 구성되다 | The team **consists of** five members. |
+| result from | ~에서 비롯되다 | Delays **resulted from** bad weather. |
+| result in | ~을 야기하다 | The error **resulted in** a large loss. |
+| belong to | ~에 속하다 | This equipment **belongs to** the lab. |
+| last | 지속되다 | The seminar **lasted** three hours. |
+
+### 타동사 (수동태 ✅)
+
+토익에서 수동태로 자주 출제되는 동사 위주.
+
+| 동사 | 뜻 | 수동태 예문 |
+|------|----|------------|
+| hold | 개최하다 | The event **will be held** next Friday. |
+| locate | 위치시키다 | The office **is located** downtown. |
+| schedule | 예정하다 | The meeting **is scheduled** for 3 P.M. |
+| require | 요구하다 | Approval **is required** before purchasing. |
+| expect | 기대하다 | Results **are expected** by Friday. |
+| notify | 알리다 | Employees **will be notified** by email. |
+| provide | 제공하다 | Meals **are provided** free of charge. |
+| invite | 초대하다 | All staff **are invited** to the reception. |
+| attach | 첨부하다 | The report **is attached** to this email. |
+| submit | 제출하다 | Forms **must be submitted** by Monday. |
+| approve | 승인하다 | The budget **was approved** by the board. |
+| assign | 배정하다 | Tasks **were assigned** to each team. |
+| postpone | 연기하다 | The launch **has been postponed**. |
+| establish | 설립하다 | The firm **was established** in 1998. |
+| replace | 교체하다 | The manager **was replaced** last month. |
+| dedicate | 헌정하다, 전념시키다 | The center **is dedicated** to research. |
+| celebrate | 축하하다, 기념하다 | The anniversary **was celebrated** with a banquet. |
+
+### 자/타동사 둘 다 가능한 동사 (주의!)
+
+| 동사 | 자동사 (수동태 ❌) | 타동사 (수동태 ✅) |
+|------|------------------|------------------|
+| increase | Sales **increased**. (증가했다) | Sales **were increased** by 10%. |
+| decrease | Costs **decreased**. | The budget **was decreased**. |
+| improve | The situation **improved**. | The system **was improved**. |
+| open | The store **opens** at 9. | The door **was opened**. |
+| move | He **moved** to Seoul. | The furniture **was moved**. |
