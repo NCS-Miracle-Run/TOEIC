@@ -129,6 +129,9 @@
 | on leave | 휴가 중인 | Mr. Park is currently on leave and will return next week. |
 | deduct | 공제하다, 빼다 | Taxes will be deducted from your monthly salary automatically. |
 | follow suit | 선례를 따르다 | After the CEO resigned, several board members followed suit. |
+| go over | 검토하다, 살펴보다 | Let's go over the report before submitting it. |
+| nominate | 지명하다, 추천하다 | She was nominated for the employee of the year award. |
+| plumber | 배관공 | The plumber was called to fix the leaking pipe. |
 
 ---
 
