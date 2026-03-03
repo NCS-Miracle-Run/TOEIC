@@ -150,6 +150,7 @@
 | provided that | ~라는 조건으로, ~한다면 | Provided that all documents are submitted, the application will be processed. |
 | so long as | ~하는 한, ~라면 | So long as you follow the guidelines, you may work remotely. |
 | as long as | ~하는 한, ~하는 동안 | As long as demand remains high, production will continue. |
+| sales figure | 판매 수치, 매출액 | The sales figures for last quarter exceeded expectations. |
 
 ---
 
